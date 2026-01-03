@@ -1,4 +1,0 @@
-# graphs
-
-| File | Problem | Approach |
-|------|----------|----------|
